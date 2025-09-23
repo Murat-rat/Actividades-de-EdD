@@ -23,4 +23,5 @@ public class Historial {
         acciones.push(rehacer.getFirst());
         return rehacer.pollFirst();
     }
+    
 }
